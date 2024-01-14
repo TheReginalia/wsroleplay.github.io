@@ -1,0 +1,33 @@
+
+body {
+    background-image: url("assets/bg.png");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'DM Sans';
+    font-size: 19px;
+    color: white;
+}
+
+.header {
+    background-color: rgba(0, 0, 50, .6);
+    padding: 20px;
+    margin: auto;
+    width: 90%;
+    border: 10px;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: black;
+}
+
+.tabs {
+    background-color: rgba(0, 0, 50, .6);
+    padding: 10px;
+    margin-left: 3.8%;
+    margin-top: 1%;
+    width: 40%;
+    border: 10px;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: black;
+}
